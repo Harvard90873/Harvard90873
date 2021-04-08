@@ -12,7 +12,7 @@ If you have already scrolled down to here, why not just stay for one minute?
 I've got a few projects I'm proud of, take a look if interested.
 
 - [My best web app: REM-Easy Organize](https://rem-easyorganize.herokuapp.com/)
-- [Python algorithms(still improving!)](https://harvard90873.readthedocs.io/en/latest/Python%20Algorithms%203x.html)
+- uh
 
 More about me and my projects on [ReadTheDocs](https://harvard90873.readthedocs.io/en/latest/)
 <!---
