@@ -11,10 +11,8 @@ If you have already scrolled down to here, why not just stay for one minute?
 
 I've got a few projects I'm proud of, take a look if interested.
 
-- [My best web app: REM-Easy Organize](https://rem-easyorganize.herokuapp.com/)
-- uh
-
-More about me and my projects on [ReadTheDocs](https://harvard90873.readthedocs.io/en/latest/)
+- [My best web app: TODO-Master](https://todo-master-www.netlify.app/)
+- [Tic Tac Toe](http://tictactoemaster.netlify.com/)
 <!---
 Harvard90873/Harvard90873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
