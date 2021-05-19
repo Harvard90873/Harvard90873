@@ -1,6 +1,6 @@
 # Harvard90873
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in software engineering and data science.
+- 👀 I’m interested in software engineering and artificial intelligence.
 - 🌱 I’m currently learning computer science courses.
 - 💞️ I’m looking to collaborate on some cryptic(but like, legal) stuff :grin:
 - 📫 Reach me at [email](mailto:harvard90873@gmail.com)
