@@ -1,8 +1,8 @@
 # Relentless Exploration
-- 👋  Hi, I’m Tim
-- 👀  I’m interested in software engineering and artificial intelligence.
-- 🌱  I’m currently learning computer science.
-- 💞️  I’m looking to collaborate on some cryptic(but like, legal) stuff :grin:
+- 👋   Hi, I’m Tim
+- 👀   I’m interested in software engineering and artificial intelligence.
+- 🌱   I’m currently learning computer science.
+- 💞️   I’m looking to collaborate on some cryptic(but like, legal) stuff :grin:
 - 📫  Reach me at [email](mailto:harvard90873@gmail.com)
 
 The software industry is a big one, there's tons of things to explore, and I'm determined to keep going as long as possible.
