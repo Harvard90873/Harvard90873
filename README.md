@@ -11,4 +11,4 @@ I've got a few projects I'm proud of, take a look if interested.
 
 - [My best web app: TODO-Master](https://todo-master-www.netlify.app/)
 - [Tic Tac Toe online with cool effects](https://tictactoemaster.netlify.com/)
-- [Dashboard For Developers a complete visual list of crucial resources for web developers](https://dashboard4dev.netlify.app/)
+- [Dashboard For Developers - a complete visual list of crucial resources for web developers](https://dashboard4dev.netlify.app/)
