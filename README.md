@@ -3,7 +3,7 @@
 - 👀   I’m interested in software engineering, artificial intelligence.
 - 🌱   I’m currently learning computer science on my own.
 
-The software industry is a big one, there's tons of things to explore, and I'm determined to keep going as long as my I have a computer.
+The software industry is a big one, there's tons of things to explore, and I'm determined to keep going as long as I have a computer.
 
 I've got a few projects I'm proud of, take a look if interested.
 
