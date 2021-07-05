@@ -7,8 +7,7 @@ The software industry is a big one, there's tons of things to explore, and I'm d
 
 I've got a few projects I'm proud of, take a look if interested.
 
-- [My best static web app: Dream Of Berlin](https://dream-of-berlin.netlify.app/)
-- [Tic Tac Toe online with cool effects](https://tictactoe-online.netlify.com/)
+- [Your Doge](https://github.com/RelentlessExploration/Your-Doge)(still in development)
+- [My static web app: Dream Of Berlin](https://dream-of-berlin.netlify.app/)
 - [Who's More Popular - live leaderboard](https://whosmorepopular.netlify.app/)
-- [Dashboard For Developers - a complete visual list of crucial resources for web developers](https://dashboard4dev.netlify.app/)
 
